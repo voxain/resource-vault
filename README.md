@@ -44,6 +44,7 @@ These are the things I have in my bookmarks and use everyday. I hope you'll find
 * [Icons8](https://icons8.com)
 * [Zwicon](https://www.zwicon.com)
 * [Simple Icons](https://simpleicons.org) - All the brand logos
+* [Octicons](https://octicons-primer.vercel.app/octicons)
 
 ## Illustrations
 * [Isometric love](https://www.isometriclove.com/) - Smooth isometric 3d objects
