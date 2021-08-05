@@ -66,6 +66,7 @@ These are the things I have in my bookmarks and use everyday. I hope you'll find
 * [SVGBackgrounds](https://www.svgbackgrounds.com/) - Tiny customizable background patterns
 * [GetWaves](https://getwaves.io) - Customizable SVG Waves
 * [BlobMaker](https://www.blobmaker.app) - The same tool, but for blob shapes.
+* [Haikei.app](https://haikei.app) - A collection of tools to generate interesting and fun shapes and effects, including the two above
 
 ## Images
 * [Dante Metaphor on BeHance](https://www.behance.net/dantemetaphor) - Creates futuristic, modern and metall-ish wallpapers and logos
