@@ -10,6 +10,7 @@ These are the things I have in my bookmarks and use everyday. I hope you'll find
 * [moveable](https://github.com/daybrush/moveable) - A library for movable/resizable etc. HTML Elements
 * [Code snippet how to let users paste from clipboard](https://stackoverflow.com/questions/6333814/how-does-the-paste-image-from-clipboard-functionality-work-in-gmail-and-google-c)
 * [keycode.info](https://keycode.info/) - Quickly get keyboard input codes
+* [HTML DOM.](https://htmldom.dev/) - Super useful snippets to modify DOM elements with Vanilla JS 
 
 ### Templating engines for express.js
 * [Pug](https://pugjs.org/api/getting-started.html)
