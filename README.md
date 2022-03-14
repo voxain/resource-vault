@@ -54,6 +54,9 @@ These are the things I have in my bookmarks and use everyday. I hope you'll find
 * [IRA Design](https://iradesign.io) - Customizable, generatied gradient illustrations
 * [ManyPixels](https://www.manypixels.co/gallery/) - More CUstomizable Illustrations in various different styles
 
+## Color Themes
+* [HalfMoon Palette](https://www.gethalfmoon.com/docs/color-utilities/)
+
 ## Gradients
 * [MeshGradients](https://www.ls.graphics/meshgradients)
 * [Grabients](https://www.grabient.com/)
@@ -65,6 +68,7 @@ These are the things I have in my bookmarks and use everyday. I hope you'll find
 ## SVG
 * [Yoksel URL-Encoder](https://yoksel.github.io/url-encoder/) - Converts SVGs into In-line HTML SVGs
 * [SVGBackgrounds](https://www.svgbackgrounds.com/) - Tiny customizable background patterns
+* [HeroIcons Patterns](https://heropatterns.com/) - SVG background patterns
 * [GetWaves](https://getwaves.io) - Customizable SVG Waves
 * [BlobMaker](https://www.blobmaker.app) - The same tool, but for blob shapes.
 * [Haikei.app](https://haikei.app) - A collection of tools to generate interesting and fun shapes and effects, including the two above
