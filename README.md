@@ -3,7 +3,7 @@ These are the things I have in my bookmarks and use everyday. I hope you'll find
 
 ## General
 * [PNGPixel](https://png-pixel.com/) - Convert Images to base64
-* [ColorsAndFotnts](https://www.colorsandfonts.com/) - A collection of colors, fonts and more
+* [ColorsAndFonts](https://www.colorsandfonts.com/) - A collection of colors, fonts and more
 * [IconScout](https://iconscout.com/) - Icons, Illustrations and stock photos in one place
 
 ## Javascript
