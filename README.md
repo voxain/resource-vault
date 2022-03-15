@@ -5,6 +5,7 @@ These are the things I have in my bookmarks and use everyday. I hope you'll find
 * [PNGPixel](https://png-pixel.com/) - Convert Images to base64
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - A collection of colors, fonts and more
 * [IconScout](https://iconscout.com/) - Icons, Illustrations and stock photos in one place
+* [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/) - Don't question it, it's apple. They know their design
 
 ## Javascript
 * [moveable](https://github.com/daybrush/moveable) - A library for movable/resizable etc. HTML Elements
@@ -72,6 +73,8 @@ These are the things I have in my bookmarks and use everyday. I hope you'll find
 * [GetWaves](https://getwaves.io) - Customizable SVG Waves
 * [BlobMaker](https://www.blobmaker.app) - The same tool, but for blob shapes.
 * [Haikei.app](https://haikei.app) - A collection of tools to generate interesting and fun shapes and effects, including the two above
+* [SVGator](https://www.svgator.com) - (kind of) free tool that helps you animate SVGs
+* [Keyframes](https://keyframes.app/) - Same as above, but actually free
 
 ## Images
 * [Dante Metaphor on BeHance](https://www.behance.net/dantemetaphor) - Creates futuristic, modern and metall-ish wallpapers and logos
@@ -82,6 +85,9 @@ These are the things I have in my bookmarks and use everyday. I hope you'll find
 
 ## UI Kits
 * [UIStore Design](https://www.uistore.design)
+
+## UI Sounds
+* [SoundsUIGood](http://soundsuigood.com/) - Rings, clicks, chimes & more because why not spice it up a bit (7$)
 
 ## Fonts
 * [Google Fonts](https://fonts.google.com/)
