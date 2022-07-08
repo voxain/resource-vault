@@ -3,12 +3,20 @@ These are the things I have in my bookmarks and use everyday. I hope you'll find
 
 ## **Life-easier-makers**
 * [Tailwind CSS](https://tailwindcss.com/) - An absolute must know if you like creating more advanced UI/UX. It's sort of a CSS library in a sense, but it's also not. Just get into it, you'll see.
+* Some cool Tailwind component libraries:
+  * [tailblocks](https://mertjf.github.io/tailblocks/) - Pre-made layout components for tailwind
+  * [DaisyUI](https://daisyui.com/) - Neat, good looking library for tailwind. Doesn't hold up with *everything* you want to do, but it's pretty nice to work with overall.
+  * [TailwindUI](https://tailwindui.com/components/) - Component library by the makers of Tailwind. ABsolutely beautiful, but costs a whopping $150.
+  * [Flowbite](https://flowbite.com/) - ALSO not free, but ALSO very good-looking
+  * [Myna UI](https://mynaui.com/) - Finally, something that looks good AND is free?
+  * [Kutty](https://kutty.netlify.app/components/) - Also free, but not my personal favorite
+  * [WickedBlocks](https://wickedblocks.dev/#elements) - Neat free collection of tailwind "Blocks"
 
 ## General
 * [PNGPixel](https://png-pixel.com/) - Convert Images to base64
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - A collection of colors, fonts and more
 * [IconScout](https://iconscout.com/) - Icons, Illustrations and stock photos in one place
-* [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/) - Don't question it, it's apple. They know their design
+* [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/) - Don't question it, it's apple.
 
 ## Javascript
 * [moveable](https://github.com/daybrush/moveable) - A library for movable/resizable etc. HTML Elements
@@ -26,7 +34,6 @@ These are the things I have in my bookmarks and use everyday. I hope you'll find
 
 ## Layout
 * [csslayout](https://csslayout.io/patterns/) - Pre-made CSS elements using flex
-* [tailblocks](https://mertjf.github.io/tailblocks/) - Pre-made components for tailwind
 * [CSS Flexbox generator](https://flexgenerator.com/) - Great for grids and item streams
 * [CSS Grid generator](https://cssgrid-generator.netlify.app/) - Great for layouts that uses some fixed values and some not - e.g. layout with sidebar & footer etc.
 
@@ -190,3 +197,6 @@ These are the things I have in my bookmarks and use everyday. I hope you'll find
       </li>
     </ul>
   </details>  
+* Other great fonts
+  * [Alegreya](https://fonts.google.com/specimen/Alegreya)
+  * [Rubik](https://fonts.google.com/specimen/Rubik)
