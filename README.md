@@ -1,6 +1,9 @@
 # My secret vault of Design & Frontend/UI resources!
 These are the things I have in my bookmarks and use everyday. I hope you'll find use for them aswell :)
 
+## **Life-easier-makers**
+* [Tailwind CSS](https://tailwindcss.com/) - An absolute must know if you like creating more advanced UI/UX. It's sort of a CSS library in a sense, but it's also not. Just get into it, you'll see.
+
 ## General
 * [PNGPixel](https://png-pixel.com/) - Convert Images to base64
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - A collection of colors, fonts and more
@@ -12,6 +15,9 @@ These are the things I have in my bookmarks and use everyday. I hope you'll find
 * [Code snippet how to let users paste from clipboard](https://stackoverflow.com/questions/6333814/how-does-the-paste-image-from-clipboard-functionality-work-in-gmail-and-google-c)
 * [keycode.info](https://keycode.info/) - Quickly get keyboard input codes
 * [HTML DOM.](https://htmldom.dev/) - Super useful snippets to modify DOM elements with Vanilla JS 
+
+### Frameworks that don't suck
+* [SvelteKit](https://kit.svelte.dev/)
 
 ### Templating engines for express.js
 * [Pug](https://pugjs.org/api/getting-started.html)
@@ -49,6 +55,7 @@ These are the things I have in my bookmarks and use everyday. I hope you'll find
 * [Octicons](https://octicons-primer.vercel.app/octicons)
 
 ## Illustrations
+* [3d Fluency by Icons8](https://icons8.com/illustrations/style--3d-fluency) - Some beautifully designed, Windows 11-style illustrations
 * [Isometric love](https://www.isometriclove.com/) - Smooth isometric 3d objects
 * [Isometric.online](https://isometric.online/) - Modern isometric 3d illustrations
 * [Lottie](https://lottiefiles.com/popular?sort=all-time) - Animated Icons, Illustrations ans Micro-Interactions
